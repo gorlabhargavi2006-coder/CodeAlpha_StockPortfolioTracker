@@ -1,4 +1,4 @@
-# 📈 Stock Portfolio Tracker
+# CodeAlpha_StockPortfolioTracker
 
 A simple Python-based **Stock Portfolio Tracker** that allows users to enter stock symbols and quantities, calculate their total investment value, and save the portfolio report in CSV or TXT format.
 
